@@ -20,4 +20,8 @@ public class App {
         System.out.println("TeamCity");
 
     }
+
+    public static boolean getSuccessResult() {
+        return true;
+    }
 }
