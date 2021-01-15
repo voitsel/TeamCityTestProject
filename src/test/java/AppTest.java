@@ -8,7 +8,7 @@ public class AppTest {
 	public void successResultTest() {
 		Assert.assertTrue(App.getSuccessResult());
 	}
-	
+
 	@Test
 	@Ignore
 	public void ignoredTest() {
