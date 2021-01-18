@@ -20,6 +20,7 @@ public class AppTest {
 	}
 
 	@Test
+	@Ignore
 	public void failureResultTest3() {
 		Assert.assertFalse(App.getSuccessResult());
 	}
