@@ -19,10 +19,10 @@ public class AppTest {
 		Assert.assertTrue(App.getSuccessResult());
 	}
 
-	@Test
-	public void failureResultTest3() {
-		Assert.assertFalse(App.getSuccessResult());
-	}
+//	@Test
+//	public void failureResultTest3() {
+//		Assert.assertFalse(App.getSuccessResult());
+//	}
 
 
 	@Test
